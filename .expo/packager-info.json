@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19000,
+  "packagerPid": 9604,
+  "webpackServerPort": null,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://s5-vdw.manasa-gm.shopping.exp.direct",
+  "packagerNgrokUrl": "https://packager.s5-vdw.manasa-gm.shopping.exp.direct",
+  "ngrokPid": 14068,
+  "devToolsPort": 19002
+}
